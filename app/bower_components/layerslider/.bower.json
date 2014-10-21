@@ -1,0 +1,21 @@
+{
+  "name": "layerslider",
+  "version": "5.0.4",
+  "main": "js/layerslider.kreaturamedia.jquery.js",
+  "authors": [
+    "Spiros Kabasakalis <kabasakalis@gmail.com>"
+  ],
+  "homepage": "https://bitbucket.org/drumaddict/layerslider",
+  "description": "Best responsive slider with tons of 2d and 3d transitions",
+  "license": "WTFPL",
+  "_release": "5.0.4",
+  "_resolution": {
+    "type": "version",
+    "tag": "v5.0.4",
+    "commit": "1dd3dbbd543ab58c2b7767488e4fad441be05438"
+  },
+  "_source": "git://github.com/drumaddict/layerslider.git",
+  "_target": "~5.0.4",
+  "_originalSource": "layerslider",
+  "_direct": true
+}
